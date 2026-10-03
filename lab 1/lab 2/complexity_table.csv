@@ -1,0 +1,7 @@
+Algorithm,Time Complexity,Space Complexity,Largest n,Time at largest n (s),Memory at largest n (KB),Growth exponent,Observed trend
+Linear Search,O(n),O(1),50000,0.002642,0.21,1.05,Linear growth
+Binary Search,O(log n),O(1),50000,2e-06,0.12,0.18,Almost constant / logarithmic
+Recursive Factorial,O(n),O(n),1000,0.00034,23.75,1.49,Linear growth
+Iterative Factorial,O(n),O(1),1000,0.000198,2.38,1.47,Linear growth
+Single Loop,O(n),O(1),50000,0.002606,0.17,1.07,Linear growth
+Nested Loop,O(n²),O(1),10000,5.153218,2.0,2.05,Quadratic growth
