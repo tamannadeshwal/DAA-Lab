@@ -1,7 +1,7 @@
 # Algorithm Performance Measurement and Benchmarking Tool
 
 **Course:** ENCA351 - Design and Analysis of Algorithms Lab (BCA AI&DS, Semester V)
-**Lab Assignment 2** | **Name:** `<your name>` | **Roll No:** `<your roll no>`
+**Lab Assignment 2** | **Name:** `Tamanna Deshwal` | **Roll No:** `2401201138`
 
 A simple Python tool that runs algorithms and code snippets, measures **execution time**, **peak memory** and **number of operations**, compares theory with experiment, and draws charts. It has a Streamlit web app and a Jupyter notebook.
 
@@ -14,7 +14,7 @@ A simple Python tool that runs algorithms and code snippets, measures **executio
 | `benchmark_engine.py` | Reusable engine: time (`perf_counter`), memory (`tracemalloc`), operations |
 | `visualization.py` | Charts + theoretical vs observed complexity table |
 | `project_notebook.ipynb` | Whole project step by step with outputs |
-| `graphs/`, `screenshots/`, `reports/` | Charts, output images, CSVs and the final report |
+| `graphs/`, `screenshots/`, `report/` | Charts, output images, CSVs and the final report |
 
 ## Setup
 ```bash
